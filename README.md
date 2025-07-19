@@ -89,5 +89,5 @@ It helps you:
 
 ## 👨‍💻 Author
 **Suman Shil** – Android Developer  
-[GitHub Profile](https://github.com/Suman942) | [LinkedIn](https://www.linkedin.com/in/suman-shil-204177191/)
+[GitHub Profile](https://github.com/Suman942) | [LinkedIn](https://www.linkedin.com/in/suman-shil-204177191/) | [Medium](https://medium.com/@suman.shil.942)
 
